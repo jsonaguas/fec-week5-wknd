@@ -1,0 +1,20 @@
+/* src/components/Header.css */
+
+.header {
+    width: 100%;
+    background-image: url('software.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+.header-content {
+    text-align: center;
+}

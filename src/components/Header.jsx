@@ -1,6 +1,6 @@
 // src/components/Header.jsx
 
-import './Header.css'; // Assuming you have a CSS file for styling
+import './Header.css';
 
 const Header = () => {
     return (
